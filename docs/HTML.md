@@ -32,6 +32,7 @@ HTML5提供了sessionStorage、localStorage和离线存储作为新的存储方�
 块级元素有表示布局类的div、section、header、footer、aside、nav、article等，列表类ul li、ol之类的，form、p、table、标题h1~h6
 行内元素：a、span、button、input、select、textarea、i、em、strong
 
+### 5.HTML5语义化有什么作用？
 参考：
 
 [前端入门培训（一）](http://www.jianshu.com/p/0122c846a0bd)
