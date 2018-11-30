@@ -29,13 +29,13 @@
 
 3. [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 
-### 3.如何实现一个自适应的正方形
+### 3.如何实现一个自适应的正方形和三角形或者倒三角形
 利用padding设置为百分比时是相对于父级元素的，因此同时设置width与padding-top(padding-bottom)为同一个百分数，
 并且设置height:0即可实现一个正方形。
 
-### 4.简要介绍一下flex布局
+### 4.简要介绍一下flex布局和grid布局，以及怎么用flex布局实现栅格
 
-### 5.如何实现两列布局
+### 5.如何实现两列布局和三栏布局，以及自适应布局怎么做
 1.将元素的display设置为行内元素
 
 2.两个元素全部使用浮动
@@ -119,3 +119,5 @@ css3动画可以通过设置animation-play-state属性为paused来设置这个�
 ### 15.说一说你知道哪些伪类选择器？
 
 ### 16.简要介绍一下一种css预处理器？
+
+### 17.CSS的权重如何确定
