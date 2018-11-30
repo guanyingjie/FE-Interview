@@ -44,6 +44,7 @@ ES6在变量的声明和定义方面增加了let、const声明变量，有局部
 引入了新的数据类型symbol，新的数据结构set和map,symbol可以通过typeof检测出来，为解决异步回调问题，引入了promise和
 generator，还有最为吸引人了实现Class和模块，通过Class可以更好的面向对象编程，使用模块加载方便模块化编程，当然考虑到
 浏览器兼容性，我们在实际开发中需要使用babel进行编译。
+参考https://github.com/ljianshu/Blog/issues/10
 
 ### 4.对js原型的理解
 我们知道在es6之前，js没有类和继承的概念，js是通过原型来实现继承的。在js中一个构造函数默认自带有一个prototype属性，
