@@ -24,13 +24,6 @@
 #### [计算机基础](docs/CS.md)
 #### [其他](docs/Other.md)
 
-## 参与贡献
-本仓库目前由[huruji](https://github.com/huruji)个人进行维护。如果在面试中遇到过相应的问题，欢迎提Issues和Pull Request，也欢迎修改所有的回答，不过修改回答提交PR时，希望能够附带相应的出处。
-
-关于如何提交PR，可以参考[这篇文章](http://blog.csdn.net/qq_33429968/article/details/62219783)
-
-## 声明
-所有版权归原作者所有，转载请邮件联系作者(huruji3@foxmail.com)
 
 ## 支持作者
 如果我的工作能够让你有所收获，或者拿到心怡的Offer，那就来个star吧，如果想要持续关注这个项目，记得点watch。
