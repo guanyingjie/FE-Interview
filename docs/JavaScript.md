@@ -149,7 +149,7 @@ typeof的返回值有undefined、boolean、string、number、object、function�
 使用返回undefined、null使用返回object，NaN使用返回number
 
 ### 15.JS的基本数据类型和引用数据类型，实现一个类型判断函数，需要鉴别出基本类型、function、null、NaN、数组、对象
-[js的基本数据和引用数据区别]{https://segmentfault.com/a/1190000008472264}
+[js的基本数据和引用数据区别](https://segmentfault.com/a/1190000008472264)
 只需要鉴别这些类型那么使用typeof即可，要鉴别null先判断双等判断是否为null，之后使用typeof判断，如果是obejct的话，再用Array.isArray判断
 是否为数组，如果是数字再使用isNaN判断是否为NaN,（需要注意的是NaN并不是JavaScript数据类型，而是一种特殊值）如下：
 ```javascript
