@@ -36,6 +36,8 @@
 
 参考：
 [高性能网站建设指南](https://book.douban.com/subject/3132277/)
+参考：
+[前端性能优化的七大手段](https://www.cnblogs.com/xiaohuochai/p/9178390.html)
 
 ### 2.有哪些常见的兼容性问题 
 
